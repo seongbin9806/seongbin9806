@@ -12,6 +12,6 @@
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/mysql.png" alt="mysql" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/aws-ec2.png" alt="aws ec2" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongbin9806%2Fhit-counter&count_bg=%234D85AC&title_bg=%237287D5&icon=mariadbfoundation.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongbin9806%2Fhit-counter&count_bg=%234D85AC&title_bg=%237287D5&icon=mariadbfoundation.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
